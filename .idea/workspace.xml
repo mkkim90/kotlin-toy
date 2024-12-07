@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2265261-f1ac-4f18-bbf6-44dcb8471c53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/dto/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/repository/MemberJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/repository/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/repository/MemberRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/java/study/datajpa/repository/TeamRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-jpa/src/test/java/study/datajpa/repository/MemberRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/DeliveryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Locker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/jpashop/domain/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway-service/src/main/java/com/example/gatewayservice/config/FilterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway-service/src/main/java/com/example/gatewayservice/filter/AuthorizationHeaderFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/build/resources/main/계좌정보.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/src/main/java/account/model/entity/AccountHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/src/main/java/account/model/entity/CancelStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/src/main/resources/거래내역.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/src/main/resources/관리점정보.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kps-test/src/test/java/account/model/AccountHistoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../querydsl/src/main/java/study/querydsl/dto/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../querydsl/src/main/java/study/querydsl/entity/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../querydsl/src/main/java/study/querydsl/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../querydsl/src/main/java/study/querydsl/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../querydsl/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../querydsl/src/test/java/study/querydsl/QuerydslBasicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/RestfulWebServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/exception/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/exception/ExceptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/helloworld/HelloWorldBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/helloworld/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/user/AdminUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/user/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/user/UserDaoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/user/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/java/com/example/restfulwebservice/user/UserV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/resources/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/main/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-web-service-practice/src/test/java/com/example/restfulwebservice/RestfulWebServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springGettingStarter/src/main/java/me/whiteship/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/controller/CatalogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/dto/CatalogDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/jpa/CatalogEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/jpa/CatalogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/messagequeue/KafkaConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/messagequeue/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/service/CatalogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/service/CatalogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/java/com/example/catalogservice/vo/ResponseCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/catalog-service/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/config-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/dto/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/dto/KafkaOrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/dto/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/dto/Payload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/dto/Schema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/jpa/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/jpa/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/messagequeue/KafkaProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/messagequeue/KafkaProducerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/messagequeue/OrderProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/vo/RequestOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/order-service/src/main/java/com/example/orderservice/vo/ResponseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/client/OrderServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/jpa/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/jpa/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/security/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/security/WebSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/vo/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/vo/RequestLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/vo/RequestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/vo/ResponseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/java/com/example/userservice/vo/ResponseUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/user-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/domain/BaseTimeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/domain/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/domain/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/dto/UserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/dto/UserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/java/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/test/java/user/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/test/java/user/domain/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-api/src/test/java/user/repository/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invest-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../invest-api/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invest-api/src/main/java/com/kakaopay/invest/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invest-api/src/main/java/com/kakaopay/invest/domain/BaseTimeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invest-api/src/main/java/com/kakaopay/invest/domain/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invest-api/src/main/java/com/kakaopay/invest/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invest-api/src/test/java/com/kakaopay/invest/domain/ProductRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/main/basic/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/main/basic/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/main/hash/HashLesson4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/classes/java/main/hash/HashLesson4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/main/hash/HashLesson4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/classes/java/main/hash/HashLesson4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/ClimbingStairsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/GenerateParenthesesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/HammingDistanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/MiddleOfTheLinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/MinimumAbsoluteDifferenceInBSTTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/NAryTreePreorderTraversalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/TwoSumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/basic/ValidParenthesesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/carrot/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/carrot/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/classes/java/test/fullSearch/findPrimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/classes/java/test/fullSearch/findPrimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/reports/tests/test/classes/fullSearch.Carpet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/reports/tests/test/packages/fullSearch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/test-results/test/TEST-fullSearch.Carpet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/main/java/basic/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/main/java/basic/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/main/java/hash/HashLesson4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/src/main/java/hash/HashLesson4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/ClimbingStairsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/GenerateParenthesesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/HammingDistanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/MiddleOfTheLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/MinimumAbsoluteDifferenceInBSTTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/NAryTreePreorderTraversalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/TwoSumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/basic/ValidParenthesesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/carrot/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/carrot/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmers/src/test/java/fullSearch/findPrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../programmers/src/test/java/fullSearch/findPrimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/empty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/empty.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2prpBDNNFuz8MWElIMRsO1yusgK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentsTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-toy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="enumspratice.PaymentsTypeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PaymentsTypeKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2265261-f1ac-4f18-bbf6-44dcb8471c53" name="Default Changelist" comment="" />
+      <created>1733533914297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733533914297</updated>
+      <workItem from="1733533918206" duration="1549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
