@@ -1,4 +1,4 @@
-package enumspratice
+package enumspractice
 
 enum class PaymentsType(val label: String): Payable {
     PAID("지급") {
