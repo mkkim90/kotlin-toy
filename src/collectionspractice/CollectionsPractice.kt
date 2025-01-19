@@ -26,13 +26,6 @@ fun main() {
     mutableNumberMap["two"] = 2
     mutableNumberMap["three"] = 1
 
-    // 컬렉션 빌더
-    val numberList = buildList {
-        add(1)
-        add(2)
-        add(3)
-    }
-
     val lowerList = listOf("a", "b", "c")
 
     val upperList = lowerList.map {
